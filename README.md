@@ -6,6 +6,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/youki992/ShiningZ)
 ![GitHub all release](https://img.shields.io/github/downloads/youki992/ShiningZ/total?color=blueviolet)  
 
-用友NC系列漏洞检测利用工具，支持批量检测（多POC、多目标）、展示对应漏洞POC（方便手工验证）、dnslog交互、结果导出、AI问答交互等
+"闪紫"（英文名shiningZ）社工字典生成工具，支持ABC自定义排列组合、ABC列字典AI扩展、AI提示词联想字典、自定义AI提示、字典去重、结果导出等
+
+目前公开更新版本为v1.1及其小更新版本例如v1.1.1
 
 > 免责声明：此工具仅限于安全研究，用户承担因使用此工具而导致的所有法律和相关责任！作者不承担任何法律责任！
